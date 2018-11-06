@@ -36,8 +36,8 @@
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
     "copy-webpack-plugin": "^4.6.0",
-    "cross-env": "^5.2.0",
     "css-loader": "^1.0.1",
+    "dotenv-webpack": "^1.5.7",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "file-loader": "^2.0.0",
@@ -81,6 +81,7 @@
     "mongoose": "^5.3.9",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "socket.io": "^2.1.1"
   }
 }
